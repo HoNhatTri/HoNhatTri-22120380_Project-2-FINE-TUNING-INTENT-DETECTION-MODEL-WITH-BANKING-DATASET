@@ -1,0 +1,11 @@
+unsloth
+trl
+peft
+accelerate
+bitsandbytes
+datasets
+pandas
+pyyaml
+torch
+transformers
+tqdm

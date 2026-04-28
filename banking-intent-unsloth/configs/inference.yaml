@@ -1,0 +1,7 @@
+# ==========================================
+# CẤU HÌNH SUY LUẬN (INFERENCE)
+# ==========================================
+
+test_path: "sample_data/test.csv"
+model_path: "saved_models/banking_intent_model"
+max_seq_length: 256
